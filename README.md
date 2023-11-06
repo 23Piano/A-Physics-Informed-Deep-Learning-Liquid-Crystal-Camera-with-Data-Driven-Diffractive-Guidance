@@ -8,4 +8,4 @@ Utilizes TensorFlow 2.4 and Python 3.8 for the implementation.
 Provides detailed documentation and instructions for reproducing the experiments.
 Please note that this repository is created as part of an academic exercise to validate and understand the research results presented in the original paper. It serves as a resource for those interested in replicating the experiments and gaining insights into the methods used in the study.
 
-Feel free to adapt and expand this introduction to provide additional context or details about your specific project.
+If you use any part of this code for your research or publication, please make sure to properly cite the original research paper “ A-Physics-Informed-Deep-Learning-Liquid-Crystal-Camera-with-Data-Driven-Diffractive-Guidance”
