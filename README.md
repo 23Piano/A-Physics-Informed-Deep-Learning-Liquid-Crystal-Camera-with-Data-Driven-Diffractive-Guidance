@@ -1,5 +1,5 @@
 # A-Physics-Informed-Deep-Learning-Liquid-Crystal-Camera-with-Data-Driven-Diffractive-Guidance
-This repository contains the replication code for the research paper“A Physics-Informed Deep Learning Liquid-Crystal Camera with Data-Driven Diffractive Guidance” conducted by the team led by Professor Zhang Xinyu at the School of Artificial Intelligence and Automation, Huazhong University of Science and Technology. The project aims to reproduce and verify the results and findings presented in the paper using TensorFlow 2.4 and Python 3.8.
+This repository contains the replication code for the research paper“A Physics-Informed Deep Learning Liquid-Crystal Camera with Data-Driven Diffractive Guidance”. The project aims to reproduce and verify the results and findings presented in the paper using TensorFlow 2.4 and Python 3.8.
 
 Key Features:
 
